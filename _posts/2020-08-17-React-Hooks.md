@@ -1,3 +1,8 @@
+---
+title: React Hooks
+date: 2020-08-17
+---
+
 I've been exploring React's new hooks used with functional components, previously stateless components, although the name is obsolete now that these components can have state.
 
 Here's a simple example taken from the React docs.
