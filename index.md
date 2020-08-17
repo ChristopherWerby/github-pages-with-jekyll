@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Tech Notes
 
-I'm glad you are here. I plan to talk about ...
+A random assortment of code snippets and workarounds.
